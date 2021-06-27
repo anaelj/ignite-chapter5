@@ -22,3 +22,6 @@
   
   - useCallback
     - Quando a função é repassada para os componentes filhos
+
+  - Formatação de dados
+    - 
