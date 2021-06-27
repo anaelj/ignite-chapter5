@@ -24,4 +24,4 @@
     - Quando a função é repassada para os componentes filhos
 
   - Formatação de dados
-    - 
+    - Fazer a formatação após o retorno da API e não na exibição
