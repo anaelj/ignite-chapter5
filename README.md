@@ -14,3 +14,9 @@
     - Usar em componentes que são renderezados muitas vezes, com frequência
     - Usar quando renderizar varias vezes com as mesmas props
     - Usar quando o componente for muito grande
+
+  - useMemo
+    - Usado para evitar que processamento pesado seja refeito na renderização do componente
+    - Cálculos pesados
+    - Quando a variável por repassada para um componente filho
+    
